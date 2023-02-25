@@ -4,3 +4,4 @@ pow(a, b) # = 8
 import math
 math.pow(a, b) 
 print(math.pow(a, b))
+#also try with operator
